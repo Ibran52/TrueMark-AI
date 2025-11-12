@@ -1,0 +1,7 @@
+{
+  "name": "Product Authenticity Checker",
+  "description": "An AI-powered web application that detects real vs. fake products using image analysis. Users can upload a product photo, and an AI model will verify its authenticity, providing a confidence score and detailed reasons for its decision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
